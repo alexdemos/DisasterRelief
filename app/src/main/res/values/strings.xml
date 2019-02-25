@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Disaster Relief</string>
+    <string name="update_numbers">Update Local Phone Numbers</string>
+    <string name="local_police">Local Police</string>
+    <string name="local_state_highway">Local State Highway</string>
+    <string name="local_medical">Local Medical</string>
+    <string name="local_utility">Local Utilities</string>
+    <string name="phone_ex">XXXXXXXXXX</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="lifeThreatening">Is the situation \nlife threatening?</string>
+    <string name="call911">Call 911</string>
+    <string name="personInjury">Personal Injury</string>
+    <string name="other">Other</string>
+    <string name="accident">Automobile Accident</string>
+    <string name="property">Property Damage</string>
+    <string name="pet">Pet Injury</string>
+    <string name="Unsure">Unsure who to call</string>
+    <string name="Vet">Contact your local veterinary</string>
+    <string name="Call221">Call 211</string>
+    <string name="callHiWay">Call State Patrol</string>
+    <string name="back">Back</string>
+    <string name="powerOutage">Power Outage</string>
+    <string name="gasLeak">Gas Leak</string>
+    <string name="callUtility">Call Utilities</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="MajorInjury">Major Injury</string>
+    <string name="MinorInjury">Minor Injury</string>
+    <string name="CallMedical">Call Medical</string>
+
+</resources>
